@@ -8,5 +8,10 @@ window.WEBRING_SITES = [
         "url": "https://lizargall.github.io/",
         "name": "Liz Argall",
         "description": "Liz Argall's portfolio site and blog"
+    },
+    {
+        "url": "https://passo.uno",
+        "name": "Passo.uno",
+        "description": "Fabrizio Ferri-Benedetti blog"
     }
 ];
