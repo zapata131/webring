@@ -28,5 +28,10 @@ window.WEBRING_SITES = [
         "url": "https://hirethis.one/blog",
         "name": "Hire This One - Sam's attempt at becoming a Tech Writer",
         "description": "An instruction manual, blog, and a resume in a few pages of HTML and JS."
+    },
+    {
+        "url": "https://damilola-oladele.dev/",
+        "name": "Damilola Oladele",
+        "description": "Damilola Oladele's blog and portfolio site"
     }
 ];
