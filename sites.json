@@ -65,6 +65,11 @@ window.WEBRING_SITES = [
         "description": "Johnathan Ortiz-Sonnen's blog"
     },
     {
+        "url": "https://amanhimself.dev",
+        "name": "amanhimself.dev",
+        "description": "Aman Mittal's blog"
+    },
+    {
         "url": "https://technicalwriting.dev",
         "name": "technicalwriting.dev",
         "description": "Field notes from the frontier of technical writing"
