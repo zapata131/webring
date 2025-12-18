@@ -85,8 +85,8 @@ window.WEBRING_SITES = [
         "description": "Zapata's (mis)adventures of a technical writer"
     },
     {
-        "url": "https://technicalwriting.link",
-        "name": "Technical Writing Links",
-        "description": "Resources for technical writers in the software industry"
+        "url": "https://www.dufcrule.com/",
+        "name": "Technically Writing",
+        "description": "Ian Cowley's blog"
     }
 ];
